@@ -47,4 +47,5 @@ An executive-style Power BI dashboard project analyzing sales, customer behavior
 ---
 
 Feel free to explore the `.pbix` files and raw data to dive into the models, measures, and logic behind the dashboards.  
-📬 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/Saisanthoshkumarvedala)** to collaborate or chat more!
+📬 **Let’s connect on [LinkedIn](https://www.linkedin.com/in/santhosh-v-371705209)** to collaborate or chat more!
+
